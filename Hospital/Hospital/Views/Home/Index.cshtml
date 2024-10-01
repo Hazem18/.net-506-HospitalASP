@@ -1,0 +1,64 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<style>
+    table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+
+    td {
+        border: 1px solid black;
+        text-align: center;
+        vertical-align: middle;
+        height: 100px; /* Adjust height as needed */
+    }
+
+    button {
+        padding: 12px 24px;
+        font-size: 16px;
+        color: white;
+        background-color: #28a745;
+        border: none;
+        border-radius: 8px;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+        button:hover {
+            background-color: #218838;
+            transform: scale(1.05);
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+        }
+
+        button:active {
+            background-color: #1e7e34;
+            transform: scale(1);
+        }
+</style>
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <h4>Thanks for choosing our hospitals</h4>
+    <table>
+        <tr>
+            <td>Internal Medicine</td>
+        </tr>
+        <tr>
+            <td>Pediatrics</td>
+        </tr>
+        <tr>
+            <td>Surgery</td>
+        </tr>
+        <tr>
+            <td>
+                <button class="btn btn-primary" onclick="window.location.href='/Home/MakeAppointment';">
+                    Make an appointment
+                </button>
+            </td>
+        </tr>
+    </table>
+
+</div>
