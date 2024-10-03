@@ -4111,11 +4111,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\حازم\\source\\repos\\Hospital\\Hospital\\Hospital.csproj",
+      "projectUniqueName": "C:\\Users\\حازم\\source\\repos\\MYTask\\.net-506-HospitalASP\\Hospital\\Hospital\\Hospital.csproj",
       "projectName": "Hospital",
-      "projectPath": "C:\\Users\\حازم\\source\\repos\\Hospital\\Hospital\\Hospital.csproj",
+      "projectPath": "C:\\Users\\حازم\\source\\repos\\MYTask\\.net-506-HospitalASP\\Hospital\\Hospital\\Hospital.csproj",
       "packagesPath": "C:\\Users\\حازم\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\حازم\\source\\repos\\Hospital\\Hospital\\obj\\",
+      "outputPath": "C:\\Users\\حازم\\source\\repos\\MYTask\\.net-506-HospitalASP\\Hospital\\Hospital\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\حازم\\AppData\\Roaming\\NuGet\\NuGet.Config",

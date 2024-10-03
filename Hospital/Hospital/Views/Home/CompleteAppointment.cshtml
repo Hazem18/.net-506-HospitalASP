@@ -10,24 +10,30 @@
 <body>
     <div class="container mt-5">
         <h2>Complete Appointment with Doctor @Model.Name</h2>
-        <form id="appointmentForm" onsubmit="return validateForm()">
+        <form action="/Home/CompleteAppointment" id="appointmentForm" onsubmit="return validateForm()" method="post">
             <!-- Patient Name Field -->
             <div class="mb-3">
                 <label for="patientName" class="form-label">Patient Name</label>
-                <input type="text" class="form-control" id="patientName" name="patientName" required>
+                <input type="text" class="form-control" id="patientName" name="PatientName" required>
             </div>
 
             <!-- Date Field -->
             <div class="mb-3">
                 <label for="appointmentDate" class="form-label">Date</label>
-                <input type="date" class="form-control" id="appointmentDate" name="appointmentDate" required>
+                <input type="date" class="form-control" id="appointmentDate" name="Day" required>
             </div>
 
             <!-- Time Field -->
             <div class="mb-3">
                 <label for="appointmentTime" class="form-label">Time</label>
-                <input type="time" class="form-control" id="appointmentTime" name="appointmentTime" required>
+                <input type="time" class="form-control" id="appointmentTime" name="Hour" required >
             </div>
+
+            <div class="mb-3">
+                <label for="DoctorName" class="form-label">Doctor Name</label>
+                <input type="text" class="form-control" id="DoctorName" name="DoctorName" value="@Model.Name" readonly required>
+            </div>
+
 
             <!-- Submit Button -->
             <button type="submit" class="btn btn-primary">Submit</button>

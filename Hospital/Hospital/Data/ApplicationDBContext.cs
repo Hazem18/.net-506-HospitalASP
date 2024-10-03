@@ -6,6 +6,7 @@ namespace Hospital.Data
     public class ApplicationDBContext :DbContext
     {
         public DbSet<Doctor> Doctors { get; set; }
+        public DbSet<Appointment> Appointments { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             base.OnConfiguring(optionsBuilder);

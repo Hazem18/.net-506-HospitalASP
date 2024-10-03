@@ -32,6 +32,19 @@ namespace Hospital.Controllers
 
            return RedirectToAction("PageNotFound");
         }
+        [HttpPost]
+        public IActionResult CompleteAppointment(Appointment appointment)
+        {
+          
+           Context.Appointments.Add(appointment);
+            Context.SaveChanges();
+            return RedirectToAction("GetAppointments");
+        }
+        public IActionResult GetAppointments()
+        {
+            var appointments = Context.Appointments.ToList(); 
+            return View(appointments);
+        }
 
         public IActionResult PageNotFound()
         {

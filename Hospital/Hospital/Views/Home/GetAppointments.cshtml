@@ -1,0 +1,25 @@
+﻿<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Patient Name</th>
+            <th scope="col">Day</th>
+            <th scope="col">Hour</th>
+            <th scope="col">Doctor</th>
+            <th scope="col">Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.PatientName</td>
+                <td>@item.Day</td>
+                <td>@item.Hour</td>
+                <td>@item.DoctorName</td>
+                <td>
+                    <a href="/Home/Index" class="btn btn-primary">Go Home</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

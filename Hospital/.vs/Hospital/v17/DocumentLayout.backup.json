@@ -1,14 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u062D\u0627\u0632\u0645\\source\\repos\\Hospital\\",
+  "WorkspaceRootPath": "C:\\Users\\\u062D\u0627\u0632\u0645\\source\\repos\\MYTask\\.net-506-HospitalASP\\Hospital\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{70E55E1F-1336-4A76-A01E-D65CBA766EFC}|Hospital\\Hospital.csproj|c:\\users\\\u062D\u0627\u0632\u0645\\source\\repos\\hospital\\hospital\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{70E55E1F-1336-4A76-A01E-D65CBA766EFC}|Hospital\\Hospital.csproj|solutionrelative:hospital\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{70E55E1F-1336-4A76-A01E-D65CBA766EFC}|Hospital\\Hospital.csproj|c:\\users\\\u062D\u0627\u0632\u0645\\source\\repos\\mytask\\.net-506-hospitalasp\\hospital\\hospital\\views\\home\\getappointments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70E55E1F-1336-4A76-A01E-D65CBA766EFC}|Hospital\\Hospital.csproj|solutionrelative:hospital\\views\\home\\getappointments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70E55E1F-1336-4A76-A01E-D65CBA766EFC}|Hospital\\Hospital.csproj|c:\\users\\\u062D\u0627\u0632\u0645\\source\\repos\\hospital\\hospital\\views\\home\\makeappointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{70E55E1F-1336-4A76-A01E-D65CBA766EFC}|Hospital\\Hospital.csproj|solutionrelative:hospital\\views\\home\\makeappointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u062D\u0627\u0632\u0645\\source\\repos\\E-Commerce\\E-Commerce\\Views\\Category\\CreateNew.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E55E1F-1336-4A76-A01E-D65CBA766EFC}|Hospital\\Hospital.csproj|c:\\users\\\u062D\u0627\u0632\u0645\\source\\repos\\mytask\\.net-506-hospitalasp\\hospital\\hospital\\views\\home\\completeappointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70E55E1F-1336-4A76-A01E-D65CBA766EFC}|Hospital\\Hospital.csproj|solutionrelative:hospital\\views\\home\\completeappointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E55E1F-1336-4A76-A01E-D65CBA766EFC}|Hospital\\Hospital.csproj|c:\\users\\\u062D\u0627\u0632\u0645\\source\\repos\\mytask\\.net-506-hospitalasp\\hospital\\hospital\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E55E1F-1336-4A76-A01E-D65CBA766EFC}|Hospital\\Hospital.csproj|solutionrelative:hospital\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E55E1F-1336-4A76-A01E-D65CBA766EFC}|Hospital\\Hospital.csproj|c:\\users\\\u062D\u0627\u0632\u0645\\source\\repos\\mytask\\.net-506-hospitalasp\\hospital\\hospital\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E55E1F-1336-4A76-A01E-D65CBA766EFC}|Hospital\\Hospital.csproj|solutionrelative:hospital\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +29,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\\u062D\u0627\u0632\u0645\\source\\repos\\Hospital\\Hospital\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Hospital\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\\u062D\u0627\u0632\u0645\\source\\repos\\Hospital\\Hospital\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Hospital\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAAADwAAAANAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "CreateNew.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u062D\u0627\u0632\u0645\\source\\repos\\E-Commerce\\E-Commerce\\Views\\Category\\CreateNew.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\E-Commerce\\E-Commerce\\Views\\Category\\CreateNew.cshtml",
+              "ToolTip": "C:\\Users\\\u062D\u0627\u0632\u0645\\source\\repos\\E-Commerce\\E-Commerce\\Views\\Category\\CreateNew.cshtml",
+              "RelativeToolTip": "..\\..\\..\\E-Commerce\\E-Commerce\\Views\\Category\\CreateNew.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-01T13:03:51.37Z",
+              "WhenOpened": "2024-10-03T01:03:56.299Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MakeAppointment.cshtml",
-              "DocumentMoniker": "C:\\Users\\\u062D\u0627\u0632\u0645\\source\\repos\\Hospital\\Hospital\\Views\\Home\\MakeAppointment.cshtml",
-              "RelativeDocumentMoniker": "Hospital\\Views\\Home\\MakeAppointment.cshtml",
-              "ToolTip": "C:\\Users\\\u062D\u0627\u0632\u0645\\source\\repos\\Hospital\\Hospital\\Views\\Home\\MakeAppointment.cshtml",
-              "RelativeToolTip": "Hospital\\Views\\Home\\MakeAppointment.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "CompleteAppointment.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u062D\u0627\u0632\u0645\\source\\repos\\MYTask\\.net-506-HospitalASP\\Hospital\\Hospital\\Views\\Home\\CompleteAppointment.cshtml",
+              "RelativeDocumentMoniker": "Hospital\\Views\\Home\\CompleteAppointment.cshtml",
+              "ToolTip": "C:\\Users\\\u062D\u0627\u0632\u0645\\source\\repos\\MYTask\\.net-506-HospitalASP\\Hospital\\Hospital\\Views\\Home\\CompleteAppointment.cshtml",
+              "RelativeToolTip": "Hospital\\Views\\Home\\CompleteAppointment.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAUwCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-01T13:03:47.196Z",
+              "WhenOpened": "2024-10-03T00:40:02.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetAppointments.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u062D\u0627\u0632\u0645\\source\\repos\\MYTask\\.net-506-HospitalASP\\Hospital\\Hospital\\Views\\Home\\GetAppointments.cshtml",
+              "RelativeDocumentMoniker": "Hospital\\Views\\Home\\GetAppointments.cshtml",
+              "ToolTip": "C:\\Users\\\u062D\u0627\u0632\u0645\\source\\repos\\MYTask\\.net-506-HospitalASP\\Hospital\\Hospital\\Views\\Home\\GetAppointments.cshtml*",
+              "RelativeToolTip": "Hospital\\Views\\Home\\GetAppointments.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T00:37:28.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\\u062D\u0627\u0632\u0645\\source\\repos\\MYTask\\.net-506-HospitalASP\\Hospital\\Hospital\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Hospital\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\\u062D\u0627\u0632\u0645\\source\\repos\\MYTask\\.net-506-HospitalASP\\Hospital\\Hospital\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Hospital\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAADwvygAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T00:18:52.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\\u062D\u0627\u0632\u0645\\source\\repos\\MYTask\\.net-506-HospitalASP\\Hospital\\Hospital\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "Hospital\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\\u062D\u0627\u0632\u0645\\source\\repos\\MYTask\\.net-506-HospitalASP\\Hospital\\Hospital\\Models\\Appointment.cs",
+              "RelativeToolTip": "Hospital\\Models\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T00:15:30.944Z",
               "EditorCaption": ""
             }
           ]
